@@ -1,0 +1,36 @@
+body {
+    background: #f8f9fa;
+}
+
+.navbar {
+    background-color: #198754;
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+    color: #fff !important;
+}
+
+.navbar-nav .nav-link:hover {
+    background-color: #367B32;
+}
+
+.nav-item:not(:last-child) {
+    margin-right: 15px;
+}
+
+.form-column {
+    background: #ffff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+
+.results-col {
+    background: #ffff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 4px;
+    margin-top: 20px;
+    margin-left: 5px;
+}
